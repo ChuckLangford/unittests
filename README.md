@@ -9,6 +9,11 @@ In the root directoy of the project, just run the following:
 ```
 node app/app.js
 ```
+The application will create an http server.  You can visit the following urls:
+```
+http://localhost:8080
+http://localhost:8080/callback
+```
 
 # node-tests
 A strictly "node only" way of running unit tests on code.  These tests use only
