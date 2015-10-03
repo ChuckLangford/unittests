@@ -6,9 +6,9 @@ methods of testing that application.
 
 ## Running the Application
 In the root directoy of the project, just run the following:
-'''
+```
 node app/app.js
-'''
+```
 
 # node-tests
 A strictly "node only" way of running unit tests on code.  These tests use only
@@ -17,7 +17,7 @@ code represents a passing test.  Change one of the values of the assert to see
 the output of a non-passing test.
 
 ## Running the Test(s)
-'''
+```
 cd node-tests
 node tests.js
-'''
+```
