@@ -22,6 +22,6 @@ module.exports = function() {
   assert.strictEqual(
       testModule.getOutput(), // actual
       'Hello!', // expected
-      print('test-module getOutput() did not match expected \'Hello!\'') //error
+      print('test-module getOutput() did not match expected >> Hello!') //error
   );
 };

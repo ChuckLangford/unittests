@@ -6,3 +6,4 @@
 // export a single function.  That function simply runs all the asserts.
 // ----------------------------------------------------------------------------
 require('./test-module')();
+require('./callback-module')();
