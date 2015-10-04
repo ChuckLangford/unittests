@@ -1,5 +1,5 @@
 # unittests
-A collection of various methods for unit testing Node.js code.
+Examples of unit tests for Node.js code.
 
 This repo consists of a single, very simple http server application and various
 methods of testing that application.
